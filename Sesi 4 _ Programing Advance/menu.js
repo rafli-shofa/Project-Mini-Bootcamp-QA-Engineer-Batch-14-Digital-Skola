@@ -23,3 +23,4 @@ inputUser.question('Masukkan angka pertama: ', (angka1) => {
     });
   });
 });
+
